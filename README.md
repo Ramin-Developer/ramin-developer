@@ -10,10 +10,10 @@ I combine production software engineering with strong mathematical competencies 
 - Clear technical communication, reproducible workflows, and long-term maintainability
 
 ## Featured Projects
-- OneDimensionalFEM: https://github.com/Ramin-Developer/OneDimensionalFEM
+- NQueen: https://github.com/Ramin-Developer/NQueen
 - SearchComparisonNet: https://github.com/Ramin-Developer/SearchComparisonNet
 - RoundRobin: https://github.com/Ramin-Developer/RoundRobin
-- NQueen: https://github.com/Ramin-Developer/NQueen
+- OneDimensionalFEM: https://github.com/Ramin-Developer/OneDimensionalFEM
 
 ## Resume
 - Resume repository (private): https://github.com/Ramin-Developer/resume-english
