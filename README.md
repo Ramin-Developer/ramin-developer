@@ -1,25 +1,42 @@
 # Hi there 👋
 
-I'm **Ramin Anvar**, a Software Developer in Oslo focused on reliable system development.
+Short introduction:
+- Ramin Anvar
+- Senior .NET Developer in Oslo, Norway
+- Software engineering, mathematics, FEM, numerical modelling, and technical writing
 
-I combine production software engineering with strong mathematical competencies in numerical modelling, finite element methods (FEM), data analysis, and statistics.
+# 🚀 Featured Projects
 
-## Focus
-- System development in C#/.NET with maintainable architecture, APIs, and data workflows
-- Applied mathematics for model implementation, validation, and reliability improvements
-- Clear technical communication, reproducible workflows, and long-term maintainability
+| Project | Description | Link |
+|---|---|---|
+| nqueen | C# implementation of the classic N-Queens problem with a focus on algorithmic clarity and correctness. | [Repository](https://github.com/Ramin-Developer/nqueen) |
+| search-comparison-net | Comparative exploration of search algorithms in .NET with practical benchmarking-oriented structure. | [Repository](https://github.com/Ramin-Developer/search-comparison-net) |
+| round-robin | Round-robin scheduling logic and implementation patterns for fair, deterministic task distribution. | [Repository](https://github.com/Ramin-Developer/round-robin) |
+| one-dimensional-fem | One-dimensional finite element method implementation for numerical modelling and method verification. | [Repository](https://github.com/Ramin-Developer/one-dimensional-fem) |
+| cooling-law | Numerical and computational work around cooling-law modeling and analysis. | [Repository](https://github.com/Ramin-Developer/cooling-law) |
 
-## Featured Projects
-- nqueen: https://github.com/Ramin-Developer/nqueen
-- search-comparison-net: https://github.com/Ramin-Developer/search-comparison-net
-- round-robin: https://github.com/Ramin-Developer/round-robin
-- one-dimensional-fem: https://github.com/Ramin-Developer/one-dimensional-fem
-- cooling-law: https://github.com/Ramin-Developer/cooling-law
+# 👨‍💻 About Me
 
-## Resume
-- Resume repository (private): https://github.com/Ramin-Developer/resume-english
+- Senior .NET development for robust, maintainable software systems
+- C# and ASP.NET Core for backend and API engineering
+- Numerical modelling and applied computational methods
+- Finite Element Methods (FEM) for engineering-focused analysis
+- Data analysis and statistics for evidence-based technical decisions
+- Technical documentation and mathematical writing
+- Reproducible workflows for dependable results
+- Long-term maintainability as a core engineering principle
 
-## Tech Stack
+# 🛠 Tech Stack
+
 - Languages: C#, TypeScript, SQL
-- Frameworks: .NET, ASP.NET Core, Entity Framework
-- Tools: Visual Studio, VS Code, MATLAB, LaTeX
+- Platforms and Frameworks: .NET, ASP.NET Core, Entity Framework Core
+- Engineering and Documentation Tools: VS Code, Visual Studio, MATLAB, LaTeX, Git, GitHub Actions
+
+# 📚 Current Focus
+
+- Mathematical writing
+- FEM projects
+- Publication-quality figures
+- LaTeX
+- VS Code workflows
+- Reproducible engineering and research
