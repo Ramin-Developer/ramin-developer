@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Ramin Anvar**, a Software Developer in Oslo focused on reliable system development.                                                                    
+I'm **Ramin Anvar**, a Software Developer in Oslo focused on reliable system development.
 
 I combine production software engineering with strong mathematical competencies in numerical modelling, finite element methods (FEM), data analysis, and statistics.
 
