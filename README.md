@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Ramin Anvar**, a Software Developer in Oslo focused on reliable system development.
+I'm **Ramin Anvar**, a Software Developer in Oslo focused on reliable system development.                                                                    
 
 I combine production software engineering with strong mathematical competencies in numerical modelling, finite element methods (FEM), data analysis, and statistics.
 
@@ -10,11 +10,11 @@ I combine production software engineering with strong mathematical competencies 
 - Clear technical communication, reproducible workflows, and long-term maintainability
 
 ## Featured Projects
-- NQueen: https://github.com/Ramin-Developer/NQueen
-- SearchComparisonNet: https://github.com/Ramin-Developer/SearchComparisonNet
+- nqueen: https://github.com/Ramin-Developer/nqueen
+- search-comparison-net: https://github.com/Ramin-Developer/search-comparison-net
 - RoundRobin: https://github.com/Ramin-Developer/RoundRobin
-- OneDimensionalFEM: https://github.com/Ramin-Developer/OneDimensionalFEM
-- Cooling-Law: https://github.com/Ramin-Developer/Cooling-Law
+- one-dimensional-fem: https://github.com/Ramin-Developer/one-dimensional-fem
+- cooling-law: https://github.com/Ramin-Developer/cooling-law
 
 ## Resume
 - Resume repository (private): https://github.com/Ramin-Developer/resume-english
