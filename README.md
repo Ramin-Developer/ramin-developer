@@ -12,7 +12,7 @@ I combine production software engineering with strong mathematical competencies 
 ## Featured Projects
 - nqueen: https://github.com/Ramin-Developer/nqueen
 - search-comparison-net: https://github.com/Ramin-Developer/search-comparison-net
-- RoundRobin: https://github.com/Ramin-Developer/RoundRobin
+- round-robin: https://github.com/Ramin-Developer/round-robin
 - one-dimensional-fem: https://github.com/Ramin-Developer/one-dimensional-fem
 - cooling-law: https://github.com/Ramin-Developer/cooling-law
 
