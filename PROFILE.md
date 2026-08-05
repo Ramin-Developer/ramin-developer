@@ -26,6 +26,10 @@
 - Languages: C#, SQL
 - Platforms and Frameworks: .NET, ASP.NET Core, Entity Framework Core
 - Engineering and Documentation Tools: VS Code, Visual Studio, MATLAB, LaTeX, Git, GitHub Actions
+- Development Environments: Visual Studio 2026 (Pro), VS Code, Android Studio, Eclipse, SSMS
+- AI-Assisted Development: GitHub Copilot Pro for code generation, refactoring, documentation, and test scaffolding
+- Modeling and Simulation: MATLAB, AnyLogic, Maple, Mathematica
+- Documentation and Productivity: LaTeX, TeXstudio, MS Office, Adobe products
 
 ## 📚 Current Focus
 
