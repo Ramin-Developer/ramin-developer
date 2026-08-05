@@ -23,7 +23,7 @@
 
 ## 🛠 Tech Stack
 
-- Languages: C#, TypeScript, SQL
+- Languages: C#, SQL
 - Platforms and Frameworks: .NET, ASP.NET Core, Entity Framework Core
 - Engineering and Documentation Tools: VS Code, Visual Studio, MATLAB, LaTeX, Git, GitHub Actions
 
