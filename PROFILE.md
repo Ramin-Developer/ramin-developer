@@ -4,12 +4,12 @@
 
 | Project | Description | Link |
 |---|---|---|
-| nqueen | C# implementation of the classic N-Queens problem with a focus on algorithmic clarity and correctness. | [Repository](https://github.com/Ramin-Developer/nqueen) |
-| bethanys-pie-shop-advanced | Layered .NET 10 application with Aspire, Web API, and integration and unit testing for production-style ASP.NET Core development. | [Repository](https://github.com/Ramin-Developer/bethanys-pie-shop-advanced) |
-| search-comparison-net | Comparative exploration of search algorithms in .NET with practical benchmarking-oriented structure. | [Repository](https://github.com/Ramin-Developer/search-comparison-net) |
-| one-dimensional-fem | One-dimensional finite element method implementation for numerical modelling and method verification. | [Repository](https://github.com/Ramin-Developer/one-dimensional-fem) |
-| cooling-law | Numerical and computational work around cooling-law modeling and analysis. | [Repository](https://github.com/Ramin-Developer/cooling-law) |
-| round-robin | Round-robin scheduling logic and implementation patterns for fair, deterministic task distribution. | [Repository](https://github.com/Ramin-Developer/round-robin) |
+| nqueen | C# N-Queens solver with clear, correct algorithm design. | [Repository](https://github.com/Ramin-Developer/nqueen) |
+| bethanys-pie-shop-advanced | Layered .NET 10 app with Aspire, Web API, and testing. | [Repository](https://github.com/Ramin-Developer/bethanys-pie-shop-advanced) |
+| search-comparison-net | .NET search-algorithm comparison with benchmarking structure. | [Repository](https://github.com/Ramin-Developer/search-comparison-net) |
+| one-dimensional-fem | 1D finite element implementation for modelling and verification. | [Repository](https://github.com/Ramin-Developer/one-dimensional-fem) |
+| cooling-law | Numerical modelling and analysis around cooling-law behavior. | [Repository](https://github.com/Ramin-Developer/cooling-law) |
+| round-robin | Fair round-robin scheduling logic and implementation patterns. | [Repository](https://github.com/Ramin-Developer/round-robin) |
 
 ## 👨‍💻 About Me
 
