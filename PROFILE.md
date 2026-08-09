@@ -10,7 +10,7 @@
 | one-dimensional-fem | 1D finite element implementation for modelling and verification. | [Repository](https://github.com/Ramin-Developer/one-dimensional-fem) |
 | cooling-law | Numerical modelling and analysis around cooling-law behavior. | [Repository](https://github.com/Ramin-Developer/cooling-law) |
 | round-robin | Fair round-robin scheduling logic and implementation patterns. | [Repository](https://github.com/Ramin-Developer/round-robin) |
-| memory-leaks-dotnet | Practical .NET debugging and memory-leak investigation examples. | [Repository](https://github.com/Ramin-Developer/memory-leaks-dotnet) |
+| memory-leaks-dotnet | Practical .NET debugging and leak analysis. | [Repository](https://github.com/Ramin-Developer/memory-leaks-dotnet) |
 
 ## 👨‍💻 About Me
 
